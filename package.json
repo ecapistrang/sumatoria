@@ -1,0 +1,15 @@
+{
+  "name": "pruebaunitaria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "scripts": {
+    "test": "jasmine-node spec --autotest --watch ."
+  },
+  "author": "",
+  "license": "ISC"
+}
